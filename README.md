@@ -1,1 +1,1 @@
-# instagram_unfollowers_utility
+# Instagram unfollowers utility
