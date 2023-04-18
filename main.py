@@ -26,5 +26,4 @@ def get_unfollowers():
 
 
 if __name__ == '__main__':
-    pass
-    # get_unfollowers()
+    get_unfollowers()
